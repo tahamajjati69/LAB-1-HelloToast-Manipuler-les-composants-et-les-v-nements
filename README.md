@@ -87,12 +87,9 @@ Cette application permet d'apprendre :
 - l'utilisation de Toast
 - la mise à jour de l'interface utilisateur
 
-## Ex
+## Exemple d'exécusion :
 
 https://github.com/user-attachments/assets/37a2c468-2b0b-4c35-aaa3-66696108e2a3
-
-emple d'exécusion :
-
 
 ## Auteur
 Mohamed Taha Majjati
